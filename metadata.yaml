@@ -13,6 +13,8 @@ covers:
 - cover_type: archival
   image_path: 44346-h/images/cover.jpg
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/44346#Lendemains-de-Guerre-des-Flandres---la-Meuse
 gutenberg_bookshelf:
 - FR Illustrateurs
 - FR La Première Guerre Mondiale, 1914-1918
