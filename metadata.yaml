@@ -1,0 +1,33 @@
+_repo: Lendemains-de-Guerre-des-Flandres---la-Meuse_44346
+_version: 0.1.0
+contributor:
+  artist:
+    agent_name: Tatin, E.
+    gutenberg_agent_id: '42704'
+    url: http://www.gutenberg.org/2009/agents/42704
+  commentator:
+    agent_name: Gobillot, René
+    gutenberg_agent_id: '42703'
+    url: http://www.gutenberg.org/2009/agents/42703
+covers:
+- cover_type: archival
+  image_path: 44346-h/images/cover.jpg
+description: ''
+gutenberg_bookshelf:
+- FR Illustrateurs
+- FR La Première Guerre Mondiale, 1914-1918
+gutenberg_issued: '2013-12-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44346'
+  lccn: '59059015'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'World War, 1914-1918'
+- !lcc 'NC'
+- !lcsh 'World War, 1914-1918 -- Pictorial works'
+title: Lendemains de Guerre des Flandres à la Meuse
+url: http://www.gutenberg.org/ebooks/44346
